@@ -1,0 +1,28 @@
+/* Team Name mold squad v2 (Emma Yuditsky, Natalie Soler, Anthony Sun)
+IntroCS pd02 sec02
+HW05 - Stuylin'
+2021-02-10
+--> */
+body {
+  background-color: #0c4209
+}
+p {
+  background-color: green;
+  font-family: Monospace, Courier New;
+}
+ul {
+  background-color: green;
+  font-family: italic, Monospace, Courier New;
+}
+h1 {
+  background-color: green;
+}
+h2 {
+  background-color: green;
+}
+h3 {
+  background-color: green;
+}
+a {
+  background-color: green;
+}
